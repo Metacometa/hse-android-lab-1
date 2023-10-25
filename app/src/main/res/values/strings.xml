@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="launch_second_button">Launch second activity</string>
+    <string name="actual_color">Default color</string>
+    <string name="introduction_text">Welcome to lab1. Enter "Red", "Green" or "Blue" and click button.</string>
+    <string name="wrong_color_text">Incorrect color name. Color is set as default</string>
+    <string name="hint_color_enter">Enter color</string>
+</resources>
